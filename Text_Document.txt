@@ -1,1 +1,2 @@
 line 1 at local repo
+line1 feature 1
